@@ -1,7 +1,10 @@
 add_executable(part_one 
-    chapter1.h
+    helper.h
+
     chapter1.cpp
     sales_item.h
+
+    chapter2.cpp
 
     main.cpp
 )

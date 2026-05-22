@@ -1,5 +1,5 @@
 #include <iostream>
-#include "chapter1.h"
+#include "helper.h"
 
 #ifdef _WIN32
 #include <windows.h>
@@ -13,5 +13,8 @@ int main()
 #endif
 
     chapter1::run();
+    
+    chapter2::run();
+
     return 0;
 }
