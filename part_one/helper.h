@@ -12,4 +12,9 @@ namespace chapter2
     void run();
 }
 
+namespace chapter3
+{
+    void run();
+}
+
 #endif // PARTONE_HELPER_H
