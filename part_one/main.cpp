@@ -16,5 +16,9 @@ int main()
     
     chapter2::run();
 
+    chapter3::run();
+
+    chapter4::run();
+
     return 0;
 }

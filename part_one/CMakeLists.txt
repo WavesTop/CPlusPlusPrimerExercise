@@ -6,5 +6,9 @@ add_executable(part_one
 
     chapter2.cpp
 
+    chapter3.cpp
+
+    chapter4.cpp
+
     main.cpp
 )

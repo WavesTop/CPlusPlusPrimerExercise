@@ -17,4 +17,10 @@ namespace chapter3
     void run();
 }
 
+// 第四章：表达式
+namespace chapter4
+{
+    void run();
+}
+
 #endif // PARTONE_HELPER_H
